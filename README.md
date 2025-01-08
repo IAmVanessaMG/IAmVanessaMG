@@ -1,4 +1,6 @@
-## Hi there 👋
+🌱 I’m currently learning:
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e565270129741a838e980?variant=light" alt="roadmap.sh"/></a>
+
 
 <!--
 **IAmVanessaMG/IAmVanessaMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
