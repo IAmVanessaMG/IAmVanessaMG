@@ -1,5 +1,5 @@
-🌱 I’m currently learning:
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e565270129741a838e980?variant=light" alt="roadmap.sh"/></a>
+<p>🌱 I’m currently learning:</p>
+<p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e565270129741a838e980?variant=light" alt="roadmap.sh"/></a></p>
 
 
 <!--
