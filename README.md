@@ -1,7 +1,7 @@
 <h4>
 <p>🌱 I’m currently studying for my Comptia A+ Certification.</p>
 <p>🔭 I’m currently working on expanding my IT Projects.</p>
-<p>📫 You can reach me through [Discord](https://discordapp.com/users/vanessamg).</p>
+<p>📫 You can reach me through my Discord: VanessaMG.</p>
 </h4>
 
 <!--
