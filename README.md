@@ -1,6 +1,8 @@
+<h4>
 <p>🌱 I’m currently studying for my Comptia A+ Certification.</p>
 <p>🔭 I’m currently working on expanding my IT Projects.</p>
-<p>📫 You can reach me in [Discord](https://discordapp.com/users/vanessamg).</p>
+<p>📫 You can reach me through [Discord](https://discordapp.com/users/vanessamg).</p>
+</h4>
 
 <!--
 **IAmVanessaMG/IAmVanessaMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
